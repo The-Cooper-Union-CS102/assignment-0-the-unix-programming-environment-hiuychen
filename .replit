@@ -1,1 +1,1 @@
-run = "./solution.sh"
+run = "sh solution.sh"
